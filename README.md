@@ -2,10 +2,12 @@
 
 *Mathematical Engineer and Artificial Intelligence*
 
+--- 
 ### 🔗 Connect with me
 <a href="https://www.linkedin.com/in/lucia-herraiz-cano-bbaa0a28a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
 
 ---
 
@@ -31,6 +33,19 @@
 <img align="left" alt="Apache Spark" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
 <br />
 </div>
+
+---
+
+
+<div align="center" style="background:#f5f5f5; padding:20px; border-radius:10px;"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=LuciaHC&theme=graywhite&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" /> 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=LuciaHC&theme=graywhite&hide_border=true" alt="GitHub Streak" /> 
+</div> 
+<div align="center" style="background:#f5f5f5; padding:20px; border-radius:10px; margin-top:10px;"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciaHC&theme=graywhite&hide_border=true&layout=compact" alt="Top Languages" /> 
+</div>
+
+
 
 ---
 
