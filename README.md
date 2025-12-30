@@ -38,11 +38,9 @@
 
 
 <div align="center" style="background:#f5f5f5; padding:20px; border-radius:10px;"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=LuciaHC&theme=graywhite&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" /> 
   <img src="https://nirzak-streak-stats.vercel.app/?user=LuciaHC&theme=graywhite&hide_border=true" alt="GitHub Streak" /> 
 </div> 
-<div align="center" style="background:#f5f5f5; padding:20px; border-radius:10px; margin-top:10px;"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciaHC&theme=graywhite&hide_border=true&layout=compact" alt="Top Languages" /> 
+<div align="center" style="background:#f5f5f5; padding:20px; border-radius:10px; margin-top:10px;">
 </div>
 
 
